@@ -1,0 +1,4 @@
+https://media.readthedocs.org/pdf/flask-restful/latest/flask-restful.pdf
+https://pypi.org/project/jsobj/
+http://jsonviewer.stack.hu/
+http://10.25.100.60:5000/api
